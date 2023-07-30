@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently an Embedded Systems student<br>👯 I’m looking to collaborate on soft-dev projects<br>🌱 I’m currently learning web2 & web3 development<br>💬 Ask me about anything in my field<br>⚡ Fun fact: I'm learning both low & high level programming
+🔭 I’m currently an Embedded Systems and Computer Science student<br>👯 I’m looking to collaborate on soft-dev projects<br>🌱 I am learning full-stack development<br>💬 Ask me about anything<br>⚡ Fun fact: I'm learning both low & high level programming
 
 
 # 💻 Tech Stack:
